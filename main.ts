@@ -19,3 +19,4 @@ let player = sprites.create(img`
 controller.moveSprite(player)
 info.setLife(3)
 tiles.setTilemap(tilemap`level1`)
+// animate bats 
